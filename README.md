@@ -1,2 +1,2 @@
 # conf1rmed
-main website
+conf1rmed.github.io
