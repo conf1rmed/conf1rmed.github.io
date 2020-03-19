@@ -1,0 +1,14 @@
+Package: com.phillipt.unlockchanger
+Name: UnlockChanger
+Version: 1.0
+Architecture: iphoneos-arm
+Description: not mine, original by codyd51, testing to see if my repo works
+Maintainer: conf1rmed
+Author: codyd51
+Section: Tweaks
+Depends: com.ex.substitute
+Filename: debs/com.phillipt.unlockchanger_1.0_iphoneos-arm.deb
+Size: 2600
+MD5sum: 7c9afd42ba171e6182177fe901045f4a
+SHA1: 0690743ddcb7f30fc194767a7235d6c617477cb6
+SHA256: 618e45ca30ec3c24e9e2f1aa0eb3ba296c1602b9f1553032b8ffa5ce9f4c34e8
