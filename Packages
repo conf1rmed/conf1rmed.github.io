@@ -12,3 +12,18 @@ Size: 3890
 MD5sum: 00ca7f96a850a180abd6d38027f1fa87
 SHA1: c20bdd735ee3688ae0815e6ad0db485e58d2cac0
 SHA256: 68ee7f54eeff67ed826c1f498f7c8ab0cb9ca708c4a31093dec5a1ff5d16be10
+
+Package: net.nerd.inds
+Name: iNDS
+Version: 1.10.7
+Architecture: iphoneos-arm
+Description: made by iNDS-Team just ported (is this the correct term?) to cydia also this is their website https://inds.nerd.net
+Maintainer: conf1rmed
+Author: conf1rmed
+Section: Emulators
+Depends: 
+Filename: debs/net.nerd.iNDS_1.10.7_iphoneos-arm.deb
+Size: 8410136
+MD5sum: b205abd66963d617681dc8b3bb00e072
+SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
+SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
