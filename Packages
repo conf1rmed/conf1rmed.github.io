@@ -1,14 +1,15 @@
 Package: com.conf1rmed.disablevolume
 Name: disablevolume
-Version: 0.0.1-1+debug
+Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
 Description: disables volume buttons also my first ever tweak
 Maintainer: conf1rmed
 Author: conf1rmed
 Section: Tweaks
 Depends: 
-Filename: debs/com.conf1rmed.disablevolume_0.0.1-1+debug_iphoneos-arm.deb
-Size: 2548
-MD5sum: 6755c62aab56927b1d7e2b31346cb100
-SHA1: 5810b266798f1f27d0ef9040d067efd828c11b3a
-SHA256: 9fbef61f12a6f280744d13b22b22005d72280e8d9430034f1cc173180295f1d5
+Filename: debs/com.conf1rmed.disablevolume_1.0.0-1+debug_iphoneos-arm.deb
+Size: 2554
+MD5sum: 8343c00fdcf9078b95c912c1ae99a4ec
+SHA1: dddc42e8d2e8c36d7c384caf467c05ef9edea1fc
+SHA256: dd7520c351bd8aa1c4ff27d37133abfbbd66f2b515996fe9daacebe97811bc21
+
