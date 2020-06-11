@@ -53,7 +53,7 @@ Author: conf1rmed
 Section: Tweaks
 Depends: 
 Filename: debs/com.conf1rmed.disablevolume_2.0.0_iphoneos-arm.deb
-Size: 2192
+Size: 45120
 MD5sum: c6c3303abb39517e1a9138c897332ab6
 SHA1: cd7220acbf281aafbb888526020e871decfaf6cc
 SHA256: c51ced8387d8c41ae741f9f424c14a7dc4e7a85e3422ba935d8102802e436001

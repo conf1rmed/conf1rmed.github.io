@@ -4,7 +4,7 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"conf1rmed.github.io/banners/disablevolume.jpg",
+         "url":"conf1rmed.github.io/banners/disablevolume.png",
          "title":"disablevolume",
          "package":"com.conf1rmed.disablevolume",
          "hideShadow":false
