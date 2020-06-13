@@ -87,3 +87,18 @@ Size: 46232
 MD5sum: 1b189cc98bea4410d95ee8dce31488f2
 SHA1: c61b2ccb58e8d40d6efc35824695961eff131715
 SHA256: 1b1553c48c4a8138fbc8f63a9e7c6c0961371ee2216f067bfdb2cc0161b487bd
+
+Package: com.conf1rmed.disablevolume
+Name: disablevolume
+Version: 2.0.3
+Architecture: iphoneos-arm
+Description: disables volume buttons
+Maintainer: conf1rmed
+Author: conf1rmed
+Section: Tweaks
+Depends: 
+Filename: debs/com.conf1rmed.disablevolume_2.0.3_iphoneos-arm.deb
+Size: 45790
+MD5sum: fc582a175af06e0301003eb69ca5395f
+SHA1: c99a21776fdf356b7e8a95fa4099f9229bd30ce0
+SHA256: 6a2477acf3fec47f8b8be90875a2714e71adf290a3be28aa5705a06885d2e0b2
